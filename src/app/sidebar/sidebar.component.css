@@ -10,12 +10,12 @@ ul {
 }
 
 li a {
-    color: #000;
+    color: #ff0000;
     padding: 0px;
     display: block;
 
 }
 
-li a .activated {
+.activated {
     background-color: #00a8ff;
 }
