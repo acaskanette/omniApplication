@@ -9,7 +9,7 @@ body {
 
 #container {
     display: grid;
-    grid-template-columns: 90px auto;
+    grid-template-columns: 86px auto;
     height: 100%;
 }
 

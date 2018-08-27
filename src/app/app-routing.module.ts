@@ -17,13 +17,11 @@ const routes: Routes = [
   {
     path: 'posts',
     component: PostsComponent
-  }
+  },
 ];
 
 @NgModule({
-  imports: [
-    CommonModule
-  ],
-  declarations: []
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
 })
 export class AppRoutingModule { }
