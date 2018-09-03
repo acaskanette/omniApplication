@@ -1,0 +1,15 @@
+#footer-container {
+    background: #000000;
+    color: #ffffff;
+    padding: 0 3%;
+    margin: 0 auto;
+    width: 990px;
+}
+
+strong {
+    color: #888888;    
+}
+
+#left-footer {
+    float: left;
+}
